@@ -1,0 +1,26 @@
+#BlueJ class context
+comment0.params=x\ y
+comment0.target=Vector(double,\ double)
+comment1.params=v
+comment1.target=Vector\ add(Vector)
+comment10.params=v
+comment10.target=double\ comp(Vector)
+comment11.params=
+comment11.target=java.lang.String\ toString()
+comment2.params=v
+comment2.target=Vector\ sub(Vector)
+comment3.params=m
+comment3.target=Vector\ mult(double)
+comment4.params=theta
+comment4.target=Vector\ rotate(double)
+comment5.params=
+comment5.target=double\ mag()
+comment6.params=
+comment6.target=double\ mag2()
+comment7.params=
+comment7.target=Vector\ norm()
+comment8.params=
+comment8.target=double\ angle()
+comment9.params=v
+comment9.target=double\ dot(Vector)
+numComments=12

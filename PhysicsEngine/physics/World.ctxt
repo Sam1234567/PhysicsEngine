@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.params=
+comment0.target=World()
+comment1.params=t
+comment1.target=void\ step(double)
+comment2.params=t\ w
+comment2.target=void\ step(double,\ World)
+comment3.params=
+comment3.target=void\ update()
+comment4.params=
+comment4.target=Vector\ p()
+comment5.params=
+comment5.target=double\ K()
+comment6.params=
+comment6.target=double\ U()
+comment7.params=
+comment7.target=double\ H()
+comment8.params=
+comment8.target=double\ Emech()
+comment9.params=
+comment9.target=double\ Etotal()
+numComments=10

@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=b1\ b2\ len\ k
+comment0.target=SimpleRope(Ball,\ Ball,\ double,\ double)
+comment1.params=t\ w
+comment1.target=void\ step(double,\ World)
+comment2.params=
+comment2.target=double\ U()
+numComments=3

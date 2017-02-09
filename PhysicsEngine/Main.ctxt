@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=
+comment0.target=double\ width()
+comment1.params=
+comment1.target=double\ height()
+comment2.params=
+comment2.target=Main()
+comment3.params=g
+comment3.target=void\ paintComponent(java.awt.Graphics)
+comment4.params=e
+comment4.target=void\ mousePressed(java.awt.event.MouseEvent)
+comment5.params=e
+comment5.target=void\ windowClosing(java.awt.event.WindowEvent)
+comment6.params=args
+comment6.target=void\ main(java.lang.String[])
+numComments=7
